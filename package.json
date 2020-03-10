@@ -1,0 +1,22 @@
+{
+  "name": "chassis-email",
+  "version": "0.0.1",
+  "description": "Nodemailer wrapper for the Chassis bootstrapper",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrizzyB/chassis-email.git"
+  },
+  "author": "Kris Sinclair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrizzyB/chassis-email/issues"
+  },
+  "homepage": "https://github.com/KrizzyB/chassis-email#readme",
+  "dependencies": {
+    "nodemailer": "latest"
+  }
+}

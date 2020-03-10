@@ -1,0 +1,14 @@
+{
+  "email": {
+    "trespass": {
+      "host": "smtp.example.com",
+      "port": 587,
+      "auth": {
+        "user": "username",
+        "pass": "password"
+      },
+      "secure": true,
+      "requireTLS": true
+    }
+  }
+}
